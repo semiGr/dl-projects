@@ -2,15 +2,15 @@
 
 *Teach a Quadcopter How to Fly!*
 
-In this project, you will design an agent to fly a quadcopter, and then train it using a reinforcement learning algorithm of your choice! 
+This project is a reinforcement learning exercise that was the final part of the udacity deep learning course. In this project, the aim was to design an agent to fly a quadcopter, and then train it using a reinforcement learning algorithm. This algorithm was a Deep Deterministic Policy Gradient (DDPG) algorithm, most of which was given as a template. The exercise was to design a task and make the agent learn this task. The choice of the task was hovering. 
 
 ## Project Instructions
 
 1. Clone the repository and navigate to the downloaded folder.
 
 ```
-git clone https://github.com/udacity/RL-Quadcopter-2.git
-cd RL-Quadcopter-2
+git clone "https://github.com/semiGr/dl-projects/Deep RL - Quadcopter.git"
+cd "Deep RL - Quadcopter"
 ```
 
 2. Create and activate a new environment.
@@ -18,6 +18,11 @@ cd RL-Quadcopter-2
 ```
 conda create -n quadcop python=3.6 matplotlib numpy pandas
 source activate quadcop
+```
+4. Once you activated the environment, install the required packages using requirements.txt file. For this step you will need tensorflow installed, which can be obtained using conda. 
+
+```
+pip install -r requirements.txt
 ```
 
 3. Create an [IPython kernel](http://ipython.readthedocs.io/en/stable/install/kernel_install.html) for the `quadcop` environment. 
