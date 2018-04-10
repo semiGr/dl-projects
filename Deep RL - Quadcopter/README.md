@@ -6,10 +6,11 @@ This project is a reinforcement learning exercise that was the final part of the
 
 ## Project Instructions
 
-1. Clone the repository and navigate to the downloaded folder.
+1. Clone the repository and navigate to the downloaded "Deep RL - Quadcopter" folder.
 
 ```
-git clone "https://github.com/semiGr/dl-projects/Deep RL - Quadcopter.git"
+git clone "https://github.com/semiGr/dl-projects.git"
+cd dl-projects
 cd "Deep RL - Quadcopter"
 ```
 
