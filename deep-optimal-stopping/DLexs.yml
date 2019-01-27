@@ -1,0 +1,65 @@
+name: DLexs
+channels:
+  - defaults
+dependencies:
+  - ca-certificates=2018.03.07=0
+  - certifi=2018.4.16=py36_0
+  - intel-openmp=2018.0.0=8
+  - libcxx=4.0.1=h579ed51_0
+  - libcxxabi=4.0.1=hebd6815_0
+  - libedit=3.1=hb4e282d_0
+  - libffi=3.2.1=h475c297_4
+  - libgfortran=3.0.1=h93005f0_2
+  - libprotobuf=3.5.2=h2cd40f5_0
+  - mkl=2018.0.2=1
+  - ncurses=6.0=hd04f020_2
+  - numpy=1.12.1=py36h8871d66_1
+  - openssl=1.0.2o=h26aff7b_0
+  - pip=10.0.1=py36_0
+  - protobuf=3.5.2=py36h0a44026_0
+  - python=3.6.5=hc167b69_1
+  - readline=7.0=hc1231fa_4
+  - scikit-learn=0.19.1=py36hffbff8c_0
+  - scipy=1.0.1=py36hcaad992_0
+  - setuptools=39.1.0=py36_0
+  - six=1.11.0=py36h0e22d5e_1
+  - sqlite=3.23.1=hf1716c9_0
+  - tensorflow=1.1.0=np112py36_0
+  - tk=8.6.7=h35a86e2_3
+  - werkzeug=0.14.1=py36_0
+  - wheel=0.31.0=py36_0
+  - xz=5.2.3=h727817e_4
+  - zlib=1.2.11=hf3cbc9b_2
+  - pip:
+    - absl-py==0.2.0
+    - appnope==0.1.0
+    - astor==0.6.2
+    - backcall==0.1.0
+    - bleach==1.5.0
+    - decorator==4.3.0
+    - gast==0.2.0
+    - grpcio==1.11.0
+    - html5lib==0.9999999
+    - ipykernel==4.8.2
+    - ipython==6.3.1
+    - ipython-genutils==0.2.0
+    - jedi==0.12.0
+    - jupyter-client==5.2.3
+    - jupyter-core==4.4.0
+    - markdown==2.6.11
+    - parso==0.2.0
+    - pexpect==4.5.0
+    - pickleshare==0.7.4
+    - prompt-toolkit==1.0.15
+    - ptyprocess==0.5.2
+    - pygments==2.2.0
+    - python-dateutil==2.7.2
+    - pyzmq==17.0.0
+    - simplegeneric==0.8.1
+    - tensorboard==1.8.0
+    - termcolor==1.1.0
+    - tornado==5.0.2
+    - traitlets==4.3.2
+    - wcwidth==0.1.7
+prefix: /Users/Cellini/anaconda2/envs/DLexs
+
