@@ -7,3 +7,7 @@ deep learning repo
   problems; in this case it is presented in a toy example;
 - "American-option-tf-estimator" presents the same problem, but in a tensorflow estimator implementation.
   This part is still work in progress...
+  
+# updates - 6 May 2019
+- added the python notebook of the dog classifier project as part of the Udacity projects. Note that
+  it is only part of the project, as the data files required for the actual are too big to upload.
