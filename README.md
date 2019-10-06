@@ -11,3 +11,7 @@ deep learning repo
 # updates - 6 May 2019
 - added the python notebook of the dog classifier project as part of the Udacity projects. Note that
   it is only part of the project, as the data files required for the actual are too big to upload.
+
+# updates - 7 Oct 2019
+- added an updated version of the optimal stopping solver. the new code presents the same "dice" problem, but for general time steps. Further extension that allows for general "payoffs" will follow. (currently this payoff is the identity.)
+- as a next step, the solver will be compared to more standard MC methods in terms of efficieny. this is currently work in progress.
