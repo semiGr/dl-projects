@@ -89,7 +89,7 @@ six=1.12.0=py37_0
 sqlite=3.30.0=ha441bb4_0
 statsmodels=0.10.1=py37h1d22016_0
 tensorboard=1.14.0=py37h80053f4_0
-tensorflow=1.14.0=mkl_py37h085be34_0
+tensorflow=1.15.4=mkl_py37h085be34_0
 tensorflow-base=1.14.0=mkl_py37h5a24fda_0
 tensorflow-estimator=1.14.0=py_0
 termcolor=1.1.0=py37_1
